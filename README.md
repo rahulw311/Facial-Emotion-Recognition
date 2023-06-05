@@ -1,7 +1,7 @@
 # Facial Emotion Recognition (FER)
 Suggestions for Music Using Facial Emotion Recognition
 
-This is a project on Facial Emotion Recognition. This has been implemented using the FisherFace algorithm. 
+This is a project on Facial Emotion Recognition. This has been implemented using OpenCV for face detection and feature extraction along with the the FisherFaces algorithm.
 FisherFaces is an improvement over EigenFaces and uses Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA). This algorithm follows the concept that all the parts of face are not equally important or useful for face recognition. When we look at a face we look at the places of maximum variation so that we can recognise that person. For example from nose to eyes there is a huge variation in everyone's face. Fisherfaces algorithm extracts principle components that separates one individual from another. So, now an individual's features can't dominate another person's features.
 
 The CK+ dataset has been used in this case as our training dataset. It can be found at the link- https://www.kaggle.com/datasets/shawon10/ckplus
