@@ -14,6 +14,8 @@ I have also provided a pre-trained model in the files which can be loaded as wel
 
 A simple GUI has been designed using tkinter to act as the front end of this application.
 
+As for the music, I have defined a .xlsx sheet where a list of songs was populated with links to the files on the system for each of the 4 emotions mentioned above which would then be shuffled and added to the queue to be run. (Not uploaded by me and has to be done manually when sourcing the code).
+
 Please download all the necessary libraries and dependencies before using the project.
 
 A detailed report can be found on this project in the documents as well.
