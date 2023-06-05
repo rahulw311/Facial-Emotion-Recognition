@@ -8,6 +8,10 @@ The CK+ dataset has been used in this case as our training dataset. It can be fo
 
 This dataset contains images on 7 emotions- anger, contempt, disgust, fear, happy, sadness and surprise. However in the case of this project for the sake of simplicity only 4 emotions are considered - anger, sadness, happy and a 4th feeling was described as neutral.
 
+The model also has a function which if run, can be used to continually add images to the training data in order to increase the accuracy of the model over time.
+
+I have also provided a pre-trained model in the files which can be loaded as well.
+
 A simple GUI has been designed using tkinter to act as the front end of this application.
 
 Please download all the necessary libraries and dependencies before using the project.
